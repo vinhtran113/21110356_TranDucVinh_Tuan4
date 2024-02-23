@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoImageView</string>
+    <string name="wifi">Wifi</string>
+    <string name="background_1">Background 1</string>
+</resources>
